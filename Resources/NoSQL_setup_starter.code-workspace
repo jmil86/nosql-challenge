@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Resources",
+			"path": "../Downloads/Starter_Code (15)/Starter_Code/Resources"
+		},
+		{
+			"name": "nosql-challenge",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
